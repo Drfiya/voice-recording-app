@@ -127,7 +127,7 @@ OPENAI_API_KEY=sk-proj-...
 
 ### AWS Credentials
 Located in `voice-recording-api-user_accessKeys.csv`:
-- **Access Key ID**: First column (e.g., ***REMOVED***)
+- **Access Key ID**: First column (starts with `AKIA`)
 - **Secret Access Key**: Second column
 
 ## Via Vercel Dashboard

@@ -75,3 +75,6 @@ temp/
 # PM2
 .pm2/
 .vercel
+
+# Any local env file (Vercel pulls write .env.development.local)
+.env*.local
